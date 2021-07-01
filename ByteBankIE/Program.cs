@@ -12,8 +12,10 @@ namespace ByteBankIE
     {
         static void Main(string[] args)
         {
-
-            CriarArquivoComWriter();
+            EscritaBinaria();
+            LeituraBinaria();
+            // TestaEscrita();
+            // CriarArquivoComWriter();
             Console.WriteLine("Aplicação finalizada. . .");
 
 
