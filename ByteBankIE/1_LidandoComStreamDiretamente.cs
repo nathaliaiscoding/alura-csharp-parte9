@@ -10,7 +10,7 @@ namespace ByteBankIE
 {
     partial class Program
     {
-        static void LidandoComStreamDiretamente()
+        static void LidandoComFileStreamDiretamente()
         {
             var enderecoDoArquivo = "contas.txt";
 
@@ -26,9 +26,8 @@ namespace ByteBankIE
                     EscreverBuffer(buffer, numeroDeBytesLidos);
                 }
             }
-
-            Console.ReadLine();
         }
+
         static void EscreverBuffer(byte[] buffer, int bytesLidos)
         {
             var utf8 = Encoding.Default;
@@ -36,8 +35,11 @@ namespace ByteBankIE
             var texto = utf8.GetString(buffer, 0, bytesLidos);
             Console.Write(texto);
 
-            // Usamos o membro estático Encoding.UTF8 para isto, mas podemos criar manualmente uma instância de Encoding com o código new UTF8Encoding(). 
-
+            //foreach (var meuByte in buffer)
+            //{
+            //    Console.Write(meuByte);
+            //    Console.Write(" ");
+            //}
         }
     }
 
