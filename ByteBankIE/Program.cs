@@ -12,10 +12,26 @@ namespace ByteBankIE
     {
         static void Main(string[] args)
         {
-            EscritaBinaria();
-            LeituraBinaria();
+
+            Console.WriteLine("Digite seu nome:");
+            string nome = Console.ReadLine();
+            Console.WriteLine($"Olá, {nome}");
+
+            // UsarStreamDeEntrada();
+            // EscritaBinaria();
+            // LeituraBinaria();
             // TestaEscrita();
             // CriarArquivoComWriter();
+
+            File.WriteAllText("escrevendoComAClasseFile.txt", "Testando File.WriteAllText");
+            Console.WriteLine("Arquivo escrevendoComAClasseFile.txt criado!");
+
+            var bytesArquivo = File.ReadAllBytes("contas.txt");
+            Console.WriteLine($"Arquivo contas.txt possui {bytesArquivo.Length} bytes");
+
+            var linhas = File.ReadAllLines("contas.txt");
+            Console.WriteLine(linhas.Length);
+
             Console.WriteLine("Aplicação finalizada. . .");
 
 
