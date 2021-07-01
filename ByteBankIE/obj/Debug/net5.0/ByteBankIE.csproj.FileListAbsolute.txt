@@ -1,0 +1,16 @@
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte9\ByteBankIE\bin\Debug\net5.0\ByteBankIE.exe
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte9\ByteBankIE\bin\Debug\net5.0\ByteBankIE.deps.json
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte9\ByteBankIE\bin\Debug\net5.0\ByteBankIE.runtimeconfig.json
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte9\ByteBankIE\bin\Debug\net5.0\ByteBankIE.runtimeconfig.dev.json
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte9\ByteBankIE\bin\Debug\net5.0\ByteBankIE.dll
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte9\ByteBankIE\bin\Debug\net5.0\ref\ByteBankIE.dll
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte9\ByteBankIE\bin\Debug\net5.0\ByteBankIE.pdb
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte9\ByteBankIE\obj\Debug\net5.0\ByteBankIE.csprojAssemblyReference.cache
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte9\ByteBankIE\obj\Debug\net5.0\ByteBankIE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte9\ByteBankIE\obj\Debug\net5.0\ByteBankIE.AssemblyInfoInputs.cache
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte9\ByteBankIE\obj\Debug\net5.0\ByteBankIE.AssemblyInfo.cs
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte9\ByteBankIE\obj\Debug\net5.0\ByteBankIE.csproj.CoreCompileInputs.cache
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte9\ByteBankIE\obj\Debug\net5.0\ByteBankIE.dll
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte9\ByteBankIE\obj\Debug\net5.0\ref\ByteBankIE.dll
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte9\ByteBankIE\obj\Debug\net5.0\ByteBankIE.pdb
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte9\ByteBankIE\obj\Debug\net5.0\ByteBankIE.genruntimeconfig.cache

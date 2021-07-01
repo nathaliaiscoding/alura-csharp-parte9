@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ByteBankImportacaoExportacao.Modelos
+namespace ByteBankIE.Modelos
 {
     public class ContaCorrente
     {
@@ -36,7 +36,7 @@ namespace ByteBankImportacaoExportacao.Modelos
                 throw new ArgumentException("Valor de saque deve ser maior que zero.", nameof(valor));
             }
 
-            if(valor > Saldo)
+            if (valor > Saldo)
             {
                 throw new InvalidOperationException("Saldo insuficiente.");
             }
